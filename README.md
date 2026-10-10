@@ -2,7 +2,7 @@
 
 Programm für Reverse-Spin-Videos aus 3D-Modellen (Windows 10/11, 64 Bit) von [The Companion Consulting](https://thecompanion.consulting/programme/spinlab/).
 
-Aus eingebauten oder eigenen 3D-Modellen (GLB/OBJ, auch animiert) werden Punktwolken, deren Drehrichtung sich nicht eindeutig lesen lässt. Mit Timeline, Farben, Hintergrundbild und nahtlosem Loop-Export (MP4, HEVC, WebM, GIF, PNG-Sequenz).
+Aus eingebauten oder eigenen 3D-Modellen (GLB/OBJ, auch animiert) werden Punktwolken, deren Drehrichtung sich nicht eindeutig lesen lässt animiert. Mit Timeline, Farben, Hintergrundbild und nahtlosem Loop-Export (MP4, HEVC, WebM, GIF, PNG-Sequenz).
 
 **Alle Infos und Anleitung: https://thecompanion.consulting/programme/spinlab/**
 
